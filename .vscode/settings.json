@@ -1,0 +1,4 @@
+{
+    "tailwindCSS.lint.cssConflict": "error",
+    "css.validate": false
+}
